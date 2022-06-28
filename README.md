@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a2joe
 - 👀 I’m interested in making Autodesk Revit issues go away.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on Autodesk APIs
 - 📫 You can reach me at joe.hood@gmail.com.
 
